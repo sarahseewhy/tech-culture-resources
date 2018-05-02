@@ -8,7 +8,7 @@ The goal of this project is to provide a starting off point for further research
 
 ## Getting Started
 
-Peruse the document at your leisure.
+Peruse the repo at your leisure.
 
 ### Prerequisites
 
