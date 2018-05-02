@@ -1,10 +1,12 @@
-# Project Title
+# Tech-Culture Resources
 
-One Paragraph of project description goes here
+The following is a work-in-progress list of resources for learning more about the intersection of technology and cultural studies.
+
+I encourage folks to propose additions because this isn't a complete list. Ideally it'll be continually improving and expanding.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
 
 ### Prerequisites
 
