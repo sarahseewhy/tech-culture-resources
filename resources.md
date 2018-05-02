@@ -12,11 +12,7 @@ Peruse the document at your leisure.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+An open mind, patience, and curiosity.
 
 ### Installing
 
