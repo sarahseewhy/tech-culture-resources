@@ -4,6 +4,8 @@ The following is a work-in-progress list of resources for learning more about th
 
 I encourage folks to propose additions because this isn't a complete list. Ideally it'll be continually improving and expanding.
 
+The goal of this project is to provide a starting off point for further research and contribute to informed discussions about the intersection of technology and culture.
+
 ## Getting Started
 
 
