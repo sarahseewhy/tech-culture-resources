@@ -18,7 +18,6 @@ An open mind, patience, and curiosity.
 
 * Knowledge
 * Collaboration
-* Love
 
 ## Contributing
 
